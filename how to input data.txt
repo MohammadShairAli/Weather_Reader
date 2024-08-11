@@ -1,0 +1,31 @@
+# Find the Highest, Lowest, Humidity:
+
+	enter any year between 1996 to 2011 
+	For lahore enter = py main.py -e 2005/C:/Users/Admin/OneDrive/Desktop/New folder/BlenSpark/lahore_weather
+
+	enter any year between 2004 to 2016
+	For Dubai enter = py main.py -e 2005/C:/Users/Admin/OneDrive/Desktop/New folder/BlenSpark/Dubai_weather
+
+	enter any year between 2004 to 2016
+	For Murree enter = py main.py -e 2005/C:/Users/Admin/OneDrive/Desktop/New folder/BlenSpark/Murree_weather
+
+# Find the Highest average, Lowest average, Humidity average:
+	
+	Enter any month and year between 1996 to 2011
+	For Lahore enter = py main.py -a 2005/6/C:/Users/Admin/OneDrive/Desktop/New folder/BlenSpark/Lahore_weather
+
+	Enter any month and any year between 2004 to 2016
+	For Dubai enter = py main.py -a 2005/6/C:/Users/Admin/OneDrive/Desktop/New folder/BlenSpark/Dubai_weather 
+
+	Enter any month and any year between 2004 to 2016
+	For Murree enter = py main.py -a 2005/6/C:/Users/Admin/OneDrive/Desktop/New folder/BlenSpark/Murree_weather
+
+# For the graph of Highest temprature and Lowest temprature:
+	Enter any month and year between 1996 to 2011
+	For Lahore enter = py main.py -c 2005/6/C:/Users/Admin/OneDrive/Desktop/New folder/BlenSpark/Lahore_weather
+
+	Enter any month and any year between 2004 to 2016
+	For Dubai enter = py main.py -c 2005/6/C:/Users/Admin/OneDrive/Desktop/New folder/BlenSpark/Dubai_weather
+
+	Enter any month and any year between 2004 to 2016
+	For Murree enter = py main.py -c 2005/6/C:/Users/Admin/OneDrive/Desktop/New folder/BlenSpark/Murree_weather
